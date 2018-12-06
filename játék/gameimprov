@@ -1,0 +1,8 @@
+Gamebook fejlesztési terv:
+
+- Szeretnénk, ha szebben nézne ki a program, jobb elválasztások, szebb menük, választható menük betűk helyett.
+- Szeretnénk, ha szebben, átláthatóbban nézne ki a programsor, globális változók nélkül.
+- Szeretnénk beépíteni a varázspont rendszert.
+- Szeretnénk vizuálisan látványosabbá tenni a harcokat az ellenfelek ascii képével.
+- Szeretnénk ha az itemek és varázslatok használása kérdés nem jönne fel minden alkalommal, hanem szükségét érezve a játékos maga dönthessen úgy, hogy használja, anélkül, hogy 
+	ellenkező esetben mindig nemet kelljen írnia.

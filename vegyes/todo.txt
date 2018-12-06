@@ -1,0 +1,4 @@
+1.[ ]kutya
+1.[x]cica
+2.[x]bagoly
+3.[ ]ló
